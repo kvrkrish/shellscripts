@@ -12,8 +12,8 @@ do
 		echo "See you again!"
 		break
 		;;
-	*)
-		echo "Sorry, I don't understand"
+	How are you)
+		echo "Good"
 		;;
   esac
 done
